@@ -41,19 +41,19 @@ Draw conclusions and make predictions on new data using the trained model.
 
 In this code the following steps were followed to obtain an analysis of the dataset using logical regression:
 
--Prepare the data for modeling
+-First i prepared the data for modeling
 
 -Encoding categorical variables
 
--Split the data into training and testing datasets
+-Splitting the data into training and testing datasets
 
--Fit a logistic regression model
+-Fitting a logistic regression model
 
--Predict on the testing data
+-Predicting on the testing data
 
--Evaluate the model's performance
+-Evaluating the model's performance
 
--Analyze the model's coefficients
+-Lastly analyzing the model's coefficients
 
 
 
