@@ -39,7 +39,21 @@ Validate the model's generalization performance using cross-validation or holdou
 
 Draw conclusions and make predictions on new data using the trained model.
 
+In this code the following steps were followed to obtain an analysis of the dataset using logical regression:
 
+-Prepare the data for modeling
+
+-Encoding categorical variables
+
+-Split the data into training and testing datasets
+
+-Fit a logistic regression model
+
+-Predict on the testing data
+
+-Evaluate the model's performance
+
+-Analyze the model's coefficients
 
 
 
